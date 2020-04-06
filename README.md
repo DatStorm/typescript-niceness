@@ -7,6 +7,8 @@ Nice typescript examples
 - https://itsmebhavin.wordpress.com/2016/09/14/node-js-express-js-with-typescript-gulp/
 - https://gist.github.com/sogko/b53d33d4f3b40d3b4b2e
 - https://stackoverflow.com/questions/45622125/how-can-i-add-live-reload-to-my-nodejs-server/51089425#51089425
+- https://github.com/CodeChron/browsersync-gulp-4-express
+- https://github.com/bradtraversy/gulpexapp/blob/master/gulpfile.js
 
 
 ## install nodemon globally
