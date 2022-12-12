@@ -22,7 +22,7 @@
 	"homepage": "https://github.com/DatStorm/typescript-niceness#readme",
 	"dependencies": {
 		"browser-sync": "^2.26.7",
-		"express": "^4.17.1"
+		"express": "^4.17.3"
 	},
 	"devDependencies": {
 		"@types/express": "^4.17.3",
